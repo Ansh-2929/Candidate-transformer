@@ -1,6 +1,0 @@
-command 1:
-python -m pytest tests/ -v
-
-
-# command 2:
-python transform.py --csv sample_inputs/recruiter_export.csv --ats sample_inputs/ats_export.json --github sample_inputs/github_anshgarg.json --github-name "Ansh Garg" --notes sample_inputs/recruiter_notes_ansh.txt --config configs/recruiter_card.json -v
