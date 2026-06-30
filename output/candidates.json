@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "candidate_count": 2,
+    "sources_processed": 4,
+    "profiles_merged": 2,
+    "elapsed_ms": 4.5,
+    "validation_errors": {}
+  },
+  "candidates": [
+    {
+      "full_name": "Ansh Garg",
+      "primary_email": "gargansh2929@gmail.com",
+      "phone": "+916289126344",
+      "title": "Software Engineering Intern Applicant",
+      "company": "Vellore Institute of Technology",
+      "location_city": "Faridabad",
+      "skill_names": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React.js",
+        "Node.js",
+        "MongoDB",
+        "Express.js",
+        "SQL",
+        "Flask",
+        "Wireshark",
+        "OpenVAS",
+        "Git",
+        "Docker",
+        "Linux",
+        "FastAPI",
+        "Distributed Systems"
+      ],
+      "years_exp": 0.0,
+      "linkedin": "https://linkedin.com/in/anshgarg2929",
+      "github": "https://github.com/Ansh-2929",
+      "overall_confidence": 0.976
+    },
+    {
+      "full_name": "Priya Nair",
+      "primary_email": "priya.nair@example.com",
+      "phone": "+442079460123",
+      "title": "Data Scientist",
+      "company": "TechWave Analytics",
+      "location_city": "London",
+      "skill_names": [
+        "PyTorch",
+        "TensorFlow",
+        "Machine Learning"
+      ],
+      "years_exp": 3.0,
+      "linkedin": "https://linkedin.com/in/priyanair",
+      "github": null,
+      "overall_confidence": 0.76
+    }
+  ]
+}

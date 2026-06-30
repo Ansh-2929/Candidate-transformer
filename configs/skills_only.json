@@ -1,0 +1,12 @@
+{
+  "_comment": "Skills-analysis config — returns only skill data for ML ingestion.",
+  "fields": [
+    { "path": "candidate_id", "type": "string",   "required": true },
+    { "path": "full_name",    "type": "string",   "required": true },
+    { "path": "skill_names",  "from": "skills[].name",       "type": "string[]" },
+    { "path": "years_experience", "type": "number", "required": false }
+  ],
+  "include_confidence": true,
+  "include_provenance": false,
+  "on_missing": "omit"
+}

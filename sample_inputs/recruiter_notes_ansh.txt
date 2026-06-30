@@ -1,0 +1,18 @@
+Candidate: Ansh Garg
+Spoke with Ansh about the Software Engineering Intern role for Jul-Dec 2026.
+Final-year B.Tech student, 0 years of experience but a strong project
+portfolio spanning full-stack web development and security tooling. Based in
+Faridabad, HR. Comfortable across both frontend and backend, plus some
+exposure to network analysis tools from coursework.
+
+Current: Applying to Eightfold AI as a Software Engineering Intern.
+
+Skills: Python, Java, JavaScript, React.js, Node.js, Express.js, MongoDB, SQL, Flask, Wireshark, OpenVAS, Git, Docker, Linux
+
+Education: BS Computer Science Engineering, Vellore Institute of Technology, 2026
+
+Portfolio: https://www.linkedin.com/in/anshgarg2929/
+Contact: gargansh2929@gmail.com, +91 6289126344
+
+Strong fundamentals, eager and quick to pick things up. Recommend moving
+forward to the technical assignment round.

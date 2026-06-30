@@ -1,0 +1,31 @@
+[
+  {
+    "applicant_name": "Ansh Garg",
+    "contact_email": "gargansh2929@gmail.com",
+    "mobile": "+91 6289126344",
+    "employer": "Vellore Institute of Technology",
+    "position": "Software Engineering Intern Applicant",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "country_code": "IN",
+    "linkedin_url": "linkedin.com/in/anshgarg2929",
+    "github_url": "github.com/Ansh-2929",
+    "tags": ["python", "java", "javascript", "react.js", "node.js", "express.js",
+      "mongodb", "sql", "flask", "wireshark", "openvas", "git", "docker", "linux"],
+    "years_exp": 0
+  },
+  {
+    "applicant_name": "Priya Nair",
+    "contact_email": "priya.nair@example.com",
+    "mobile": "00 44 20 7946 0123",
+    "employer": "TechWave Analytics",
+    "position": "Data Scientist",
+    "city": "London",
+    "state": "",
+    "country_code": "GB",
+    "linkedin_url": "linkedin.com/in/priyanair",
+    "github_url": "",
+    "tags": ["pytorch", "tensorflow", "machine learning"],
+    "years_exp": 3
+  }
+]

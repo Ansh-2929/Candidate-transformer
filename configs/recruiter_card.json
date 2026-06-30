@@ -1,0 +1,18 @@
+{
+  "_comment": "Recruiter card view — flat, minimal fields, no provenance.",
+  "fields": [
+    { "path": "full_name",     "type": "string",   "required": true  },
+    { "path": "primary_email", "from": "emails[0]","type": "string",   "required": true  },
+    { "path": "phone",         "from": "phones[0]","type": "string",   "normalize": "E164", "required": false },
+    { "path": "title",         "from": "experience[0].title", "type": "string", "required": false },
+    { "path": "company",       "from": "experience[0].company","type": "string", "required": false },
+    { "path": "location_city", "from": "location.city",   "type": "string", "required": false },
+    { "path": "skill_names",   "from": "skills[].name",   "type": "string[]", "normalize": "canonical" },
+    { "path": "years_exp",     "from": "years_experience","type": "number",   "required": false },
+    { "path": "linkedin",      "from": "links.linkedin",  "type": "string",   "required": false },
+    { "path": "github",        "from": "links.github",    "type": "string",   "required": false }
+  ],
+  "include_confidence": true,
+  "include_provenance": false,
+  "on_missing": "null"
+}

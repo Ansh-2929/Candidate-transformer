@@ -1,0 +1,21 @@
+{
+  "login": "Ansh-2929",
+  "name": "Ansh Garg",
+  "bio": "B.Tech CSE student building projects in Python and JavaScript, interested in distributed systems and network security tooling.",
+  "location": "Faridabad, Haryana, India",
+  "email": "gargansh2929@gmail.com",
+  "blog": "",
+  "top_languages": ["Python", "JavaScript", "Java"],
+  "repos": [
+    {
+      "name": "store-intelligence-challenge",
+      "language": "Python",
+      "description": "Retail store intelligence pipeline using computer vision and FastAPI"
+    },
+    {
+      "name": "campus-portal",
+      "language": "JavaScript",
+      "description": "Full-stack student portal built with React and Node.js, MongoDB backend"
+    }
+  ]
+}
